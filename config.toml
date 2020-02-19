@@ -5,3 +5,4 @@ theme = "book"
 
 [params]
   BookMenuBundle = '/menu'
+  BookSearch = false
