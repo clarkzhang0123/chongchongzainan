@@ -5,4 +5,6 @@ draft: false
 type: docs
 ---
 
-# 重重灾难
+# 重重灾难 - a 张心同 novel
+
+![](/chongchongzainan/cover.png)
