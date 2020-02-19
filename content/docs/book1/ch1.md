@@ -1,10 +1,10 @@
 ---
-title: "小行星之乱"
+title: "第一章"
 draft: false
 type: docs
 ---
 
-# 小行星之乱
+# 第一章
 ----
 ## 发现
 
