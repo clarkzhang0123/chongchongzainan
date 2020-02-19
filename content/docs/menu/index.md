@@ -1,7 +1,8 @@
 +++
-headless = false
+headless = true
 +++
 
+----------
 - [Copyleft]({{< relref "/docs" >}})
 - [时间纪年对照表]({{< relref "/docs/time_table" >}})
 - **小行星之乱**
