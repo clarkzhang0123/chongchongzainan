@@ -2,3 +2,6 @@ baseURL = "https://clarkzhang0123.github.io/chongchongzainan"
 languageCode = "zh-ch"
 title = "重重灾难"
 theme = "book"
+
+[params]
+  BookMenuBundle = '/menu'
